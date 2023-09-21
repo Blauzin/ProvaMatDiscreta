@@ -1,4 +1,3 @@
-#Matheus Melara Girardi, Pedro Bastos Leite
 
 
 with open('conjunto3.txt', 'r') as f:
